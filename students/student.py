@@ -15,3 +15,10 @@ class Student:
             "department": self.department
         }
     
+
+
+
+
+
+
+    
