@@ -76,4 +76,4 @@ Email must be valid
 
 ## Purpose
 
-This project is built to demonstrate Object-Oriented Programming and file handling using Python.
+This project was developed as part of an assignment on the Ostad platform to apply Object-Oriented Programming concepts and file handling in Python through a practical student record management system.
